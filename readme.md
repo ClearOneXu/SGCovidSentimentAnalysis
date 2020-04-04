@@ -27,7 +27,7 @@ For an example in v, [595632288 0.8223876953125 41706.0 set()], the first means 
 The total number of users is 74172.
 
 #### 2. get_everyday_features()
-Run get_everyday_features() in getFeatures.py and save the number of different emotions and key words of different emotion group every day. We will have 7 days' everyday_emotions.npz files.
+Run get_everyday_features() in getFeatures.py and save the number of different emotions and key words of different emotion group every day. We will have 7 days' emotion_words.npz files.
 
 ## Data visualizaition
 
