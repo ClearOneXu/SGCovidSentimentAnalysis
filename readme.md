@@ -1,3 +1,5 @@
+ More details are shown in Big-Data-Report.pdf
+
 # Architecuture
 
 ## Data Preperation and Preprocessing
